@@ -1,0 +1,28 @@
+{
+"data": [
+  {
+    "id": "1",
+    "name": "Shahob",
+    "lastname": "Kholbekzoda",
+    "img": "../../img/shahob_icon.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Nur",
+    "lastname": "Nurov",
+    "img": "../../img/nur-icon.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Said",
+    "lastname": "Saidov",
+    "img": "../../img/said-icon.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Aziz",
+    "lastname": "Azizov",
+    "img": "../../img/aziz-icon.jpg"
+  }
+]
+}
